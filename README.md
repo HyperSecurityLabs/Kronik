@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Kronik-8.0--HyperThreaded-00A86B?style=for-the-badge&labelColor=0A0A0A&color=00A86B)](https://github.com/hypersecuritylabs/kronik)
 [![Rust](https://img.shields.io/badge/Rust-2021%20Edition-FF5532?style=for-the-badge&labelColor=0A0A0A&color=FF5532)](https://www.rust-lang.org/)
-[![Platform](https://img.shields.io/badge/Linux%20%7C%20macOS%20%7C%20Windows-F0EBE6?style=for-the-badge&labelColor=0A0A0A&color=F0EBE6)]()
+[![Platform](https://img.shields.io/badge/Linux%20%7C%2%20%7C%20Windows-F0EBE6?style=for-the-badge&labelColor=0A0A0A&color=F0EBE6)]()
 [![HTTP/2](https://img.shields.io/badge/HTTP-2.0%20Multiplexed-00A86B?style=for-the-badge&labelColor=0A0A0A&color=00A86B)]()
 [![AI](https://img.shields.io/badge/AI-Lyara%20Engine-FF5532?style=for-the-badge&labelColor=0A0A0A&color=FF5532)]()
 [![ML](https://img.shields.io/badge/ML-linfa--bayes-F0EBE6?style=for-the-badge&labelColor=0A0A0A&color=F0EBE6)]()
