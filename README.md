@@ -63,7 +63,7 @@ Kronik is a high-performance WordPress security assessment framework engineered 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-[![⌨](https://img.shields.io/badge/⌨-Installation-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]() ## Installation
+[![⌨](https://img.shields.io/badge/⌨-Installation-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]() Installation
 
 ```bash
 # Requirements: Rust toolchain (rustc + cargo)
@@ -79,7 +79,7 @@ cargo build --release
 sudo dpkg -i kronik_8.0.0_amd64.deb
 ```
 
-[![⊞](https://img.shields.io/badge/⊞-CLI%20Reference-F0EBE6?style=flat-square&labelColor=0A0A0A&color=F0EBE6)]() ## CLI Reference
+[![⊞](https://img.shields.io/badge/⊞-CLI%20Reference-F0EBE6?style=flat-square&labelColor=0A0A0A&color=F0EBE6)]()  CLI Reference
 
 ### Target & Credentials
 
@@ -164,7 +164,7 @@ sudo dpkg -i kronik_8.0.0_amd64.deb
 
 ---
 
-[![▤](https://img.shields.io/badge/▤-Usage%20Examples-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]() ## Usage Examples
+[![▤](https://img.shields.io/badge/▤-Usage%20Examples-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]() Usage Examples
 
 ### Reconnaissance
 
@@ -300,7 +300,7 @@ kronik -U https://example.com \
 
 ---
 
-[![⊡](https://img.shields.io/badge/⊡-Module%20Reference-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]() ## Module Reference
+[![⊡](https://img.shields.io/badge/⊡-Module%20Reference-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]()  Module Reference
 
 ### Reconnaissance (`activenum/`)
 
@@ -411,7 +411,7 @@ kronik -U https://example.com \
 
 ---
 
-[![◈](https://img.shields.io/badge/◈-Network%20Stack-F0EBE6?style=flat-square&labelColor=0A0A0A&color=F0EBE6)]() ## Network Stack Performance
+[![◈](https://img.shields.io/badge/◈-Network%20Stack-F0EBE6?style=flat-square&labelColor=0A0A0A&color=F0EBE6)]()  Network Stack Performance
 
 | Parameter | Setting |
 |-----------|---------|
@@ -425,7 +425,7 @@ kronik -U https://example.com \
 
 ---
 
-[![⌘](https://img.shields.io/badge/⌘-Attack%20Strategies-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]() ## Attack Strategies
+[![⌘](https://img.shields.io/badge/⌘-Attack%20Strategies-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]()  Attack Strategies
 
 ### Password Generation Pipeline
 
@@ -466,7 +466,7 @@ Attack Engine (token bucket, adaptive delay)
 
 ---
 
-[![⚠](https://img.shields.io/badge/⚠-Legal%20Disclaimer-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]() ## Legal Disclaimer
+[![⚠](https://img.shields.io/badge/⚠-Legal%20Disclaimer-FF5532?style=flat-square&labelColor=0A0A0A&color=FF5532)]()  Legal Disclaimer
 
 This tool is for **authorized security testing only**. You must have explicit written permission from the target owner before using Kronik against any system. Unauthorized access to computer systems is illegal under:
 
@@ -478,7 +478,7 @@ The DoS/crash modules (flood, slowloris, TCP RST, memory exhaustion, lockout DoS
 
 ---
 
-[![★](https://img.shields.io/badge/★-Credits-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]() ## Credits
+[![★](https://img.shields.io/badge/★-Credits-00A86B?style=flat-square&labelColor=0A0A0A&color=00A86B)]() Credits
 
 | Role | Name |
 |------|------|
